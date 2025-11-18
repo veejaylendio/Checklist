@@ -1,0 +1,46 @@
+[
+    {
+        "id": 2,
+        "category_name": "Sud.an",
+        "items": [
+            {
+                "id": 1,
+                "name": "Hatdog"
+            },
+            {
+                "id": 2,
+                "name": "Beefloaf"
+            },
+            {
+                "id": 3,
+                "name": "Manok"
+            },
+            {
+                "id": 4,
+                "name": "Baka"
+            },
+            {
+                "id": 5,
+                "name": "Baboy"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "category_name": "Skin Care",
+        "items": [
+            {
+                "id": 1,
+                "name": "Cetaphil"
+            },
+            {
+                "id": 2,
+                "name": "moisturizer"
+            },
+            {
+                "id": 3,
+                "name": "facial wash "
+            }
+        ]
+    }
+]
