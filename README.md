@@ -2,8 +2,9 @@
 
 **Cloning**
 Open a terminal (or Git Bash on Windows).
-Run:
-git clone https://github.com/veejaylendio/Checklist.git
+
+Run: git clone https://github.com/veejaylendio/Checklist.git
+
 cd Checklist
 
 Replace your-username/Checklist with your actual GitHub path.
