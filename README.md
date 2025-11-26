@@ -10,6 +10,7 @@ cd Checklist
 Replace your-username/Checklist with your actual GitHub path.
 
 **Prerequisites**
+
 Make sure you have:
 PHP 7.4 or later installed.
 A local web server (XAMPP, WAMP, MAMP, Laragon, or built-in PHP server).
